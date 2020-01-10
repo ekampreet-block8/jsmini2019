@@ -1,0 +1,8 @@
+Put libraries and other js at body's end.
+put analytics like google analytics at start of body since it does not interfere with the dom.
+Libraries may be added at head's end if they tell you to do so.
+
+<script type="text/javascript" scr=javascript.js"></script>
+<script>
+    alert('hello')
+</script>
