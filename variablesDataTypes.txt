@@ -1,0 +1,5 @@
+var name = 'Ekam';
+var name2 = "Ekam2";
+
+var age = 27 undefined
+var age2='27'
