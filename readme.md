@@ -1,0 +1,1 @@
+This is javascript essential mini course repo.
